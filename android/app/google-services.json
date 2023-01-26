@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079532761788",
+    "project_id": "smart-mental-health-system",
+    "storage_bucket": "smart-mental-health-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079532761788:android:86f67caeb5664de14cd6b9",
+        "android_client_info": {
+          "package_name": "com.example.smart_recommendation_system_for_mental_health_patients"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079532761788-omeujt0gaaebqjcjuk0m7ptagf66c7gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC92DISQGNUPyVbQKIZRg4m4yFGe6CjTGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079532761788-omeujt0gaaebqjcjuk0m7ptagf66c7gd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
