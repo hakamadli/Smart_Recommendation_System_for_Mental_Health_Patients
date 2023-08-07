@@ -39,11 +39,6 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: myAppColor,
       ),
-      // initialRoute: "/main",
-      // routes: {
-      //   "/main":(context) => MainPage(),
-      //   "/welcome": (context) => WelcomeScreen(),
-      // },
       home: LoginAuthPage(),
     );
   }
